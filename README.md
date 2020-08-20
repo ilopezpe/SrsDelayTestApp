@@ -1,7 +1,7 @@
 # SrsDelayTestApp
-This application controls a SRS DG535 via a Proligix GPIB-USB controller.
+This application controls a SRS DG535 digital delay/pulse generator via a Proligix GPIB-USB controller.
 
-The software sends serial commands to the Proligix controller, which communicates with the SRS DG535 via GPIB.
+The software sends serial commands to the Proligix controller, which communicates with the SRS DG535 via GPIB. 
 
 ![App Image](https://github.com/ilopezpe/SrsDelayTestApp/blob/master/SrsDelayTestApp.png)
 
